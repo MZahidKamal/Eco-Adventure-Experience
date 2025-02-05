@@ -1,0 +1,785 @@
+[
+  {
+    "id": "MT001",
+    "title": "Everest Base Camp Trek",
+    "image": "https://i.ibb.co/KDy1dBm/01-Everest-Base-Camp-Trek.jpg",
+    "category": "Mountain Treks",
+    "shortDescription": "Experience the majesty of the world's highest peak on this challenging trek to Everest Base Camp.",
+    "cost": 2500,
+    "bookingAvailability": true,
+    "location": "Nepal",
+    "duration": "14 days",
+    "adventureLevel": "Challenging",
+    "includedItems": [
+      "Accommodation",
+      "Meals",
+      "Guide",
+      "Permits"
+    ],
+    "ecoFriendlyFeatures": [
+      "Leave No Trace policy",
+      "Local guide employment",
+      "Sustainable camping practices"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Altitude acclimatization required",
+      "High level of fitness needed",
+      "Warm clothing essential"
+    ]
+  },
+  {
+    "id": "MT002",
+    "title": "Kilimanjaro Summit Climb",
+    "image": "https://i.ibb.co/mNy9bqk/02-Kilimanjaro-Summit-Climb.jpg",
+    "category": "Mountain Treks",
+    "shortDescription": "Conquer Africa's highest peak and witness breathtaking views from the 'Roof of Africa'.",
+    "cost": 3000,
+    "bookingAvailability": true,
+    "location": "Tanzania",
+    "duration": "7 days",
+    "adventureLevel": "Challenging",
+    "includedItems": [
+      "Camping gear",
+      "Meals",
+      "Guide",
+      "Park fees"
+    ],
+    "ecoFriendlyFeatures": [
+      "Waste management program",
+      "Support for local conservation",
+      "Use of sustainable energy sources"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Medical check-up recommended",
+      "Proper hiking boots required",
+      "Training advised before the trip"
+    ]
+  },
+  {
+    "id": "MT003",
+    "title": "Annapurna Circuit Trek",
+    "image": "https://i.ibb.co/rMp4nT1/03-Annapurna-Circuit-Trek.jpg",
+    "category": "Mountain Treks",
+    "shortDescription": "Circle the Annapurna massif, experiencing diverse landscapes and cultures.",
+    "cost": 1800,
+    "bookingAvailability": true,
+    "location": "Nepal",
+    "duration": "12-18 days",
+    "adventureLevel": "Moderate to Challenging",
+    "includedItems": [
+      "Teahouse accommodation",
+      "Meals",
+      "Guide",
+      "Permits"
+    ],
+    "ecoFriendlyFeatures": [
+      "Support for local communities",
+      "Responsible waste management",
+      "Cultural preservation efforts"
+    ],
+    "maxGroupSize": 15,
+    "specialInstructions": [
+      "Altitude sickness prevention measures",
+      "Respect local customs",
+      "Bring layers for varying temperatures"
+    ]
+  },
+  {
+    "id": "FE001",
+    "title": "Amazon Rainforest Expedition",
+    "image": "https://i.ibb.co/st1KkBT/04-Amazon-Rainforest-Expedition.jpg",
+    "category": "Forest Expeditions",
+    "shortDescription": "Explore the biodiversity of the world's largest rainforest in this immersive expedition.",
+    "cost": 2200,
+    "bookingAvailability": true,
+    "location": "Brazil",
+    "duration": "8 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Jungle lodge accommodation",
+      "Meals",
+      "Local guide",
+      "River transportation"
+    ],
+    "ecoFriendlyFeatures": [
+      "Support for indigenous communities",
+      "Wildlife conservation efforts",
+      "Sustainable tourism practices"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Vaccinations required",
+      "Bring insect repellent",
+      "Waterproof gear recommended"
+    ]
+  },
+  {
+    "id": "FE002",
+    "title": "Borneo Orangutan Safari",
+    "image": "https://i.ibb.co/Z8yfj0P/05-Borneo-Orangutan-Safari.jpg",
+    "category": "Forest Expeditions",
+    "shortDescription": "Witness orangutans in their natural habitat and support conservation efforts in Borneo.",
+    "cost": 2500,
+    "bookingAvailability": true,
+    "location": "Malaysia",
+    "duration": "10 days",
+    "adventureLevel": "Easy to Moderate",
+    "includedItems": [
+      "Eco-lodge stay",
+      "Meals",
+      "Guide",
+      "Park entrance fees"
+    ],
+    "ecoFriendlyFeatures": [
+      "Orangutan conservation support",
+      "Reforestation initiatives",
+      "Eco-friendly accommodations"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Quiet observation required",
+      "No flash photography",
+      "Respect wildlife boundaries"
+    ]
+  },
+  {
+    "id": "FE003",
+    "title": "Redwood National Park Trek",
+    "image": "https://i.ibb.co/jJ0CYTX/06-Redwood-National-Park-Trek.jpg",
+    "category": "Forest Expeditions",
+    "shortDescription": "Walk among giants in this trek through ancient redwood forests.",
+    "cost": 1500,
+    "bookingAvailability": true,
+    "location": "California, USA",
+    "duration": "5 days",
+    "adventureLevel": "Easy",
+    "includedItems": [
+      "Camping equipment",
+      "Meals",
+      "Park guide",
+      "Transportation within the park"
+    ],
+    "ecoFriendlyFeatures": [
+      "Leave No Trace practices",
+      "Forest preservation education",
+      "Sustainable camping techniques"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Campfire safety rules",
+      "Bear-proof food storage required",
+      "Stay on designated trails"
+    ]
+  },
+  {
+    "id": "OD001",
+    "title": "Great Barrier Reef Diving Adventure",
+    "image": "https://i.ibb.co/KbV6jDn/07-Great-Barrier-Reef-Diving-Adventure.jpg",
+    "category": "Ocean Dives",
+    "shortDescription": "Explore the vibrant underwater world of the largest coral reef system.",
+    "cost": 2800,
+    "bookingAvailability": true,
+    "location": "Queensland, Australia",
+    "duration": "7 days",
+    "adventureLevel": "Intermediate",
+    "includedItems": [
+      "Dive equipment",
+      "Boat trips",
+      "Accommodation",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Reef conservation education",
+      "Use of reef-safe sunscreen",
+      "Marine life protection practices"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "PADI certification required",
+      "No touching coral or marine life",
+      "Underwater camera recommended"
+    ]
+  },
+  {
+    "id": "OD002",
+    "title": "Galapagos Islands Diving Expedition",
+    "image": "https://i.ibb.co/7rJySk6/08-Galapagos-Islands-Diving-Expedition.jpg",
+    "category": "Ocean Dives",
+    "shortDescription": "Dive in one of the world's most unique marine ecosystems, encountering diverse wildlife.",
+    "cost": 3500,
+    "bookingAvailability": true,
+    "location": "Galapagos Islands, Ecuador",
+    "duration": "10 days",
+    "adventureLevel": "Advanced",
+    "includedItems": [
+      "Liveaboard accommodation",
+      "Dive equipment",
+      "Meals",
+      "National Park fees"
+    ],
+    "ecoFriendlyFeatures": [
+      "Support for Galapagos conservation",
+      "Strict environmental regulations adherence",
+      "Educational programs on marine biodiversity"
+    ],
+    "maxGroupSize": 16,
+    "specialInstructions": [
+      "Advanced open water certification required",
+      "Strong currents possible",
+      "Respect wildlife interaction guidelines"
+    ]
+  },
+  {
+    "id": "OD003",
+    "title": "Maldives Manta Ray Diving",
+    "image": "https://i.ibb.co/gjGbk8W/09-Maldives-Manta-Ray-Diving.jpg",
+    "category": "Ocean Dives",
+    "shortDescription": "Dive with majestic manta rays in the crystal-clear waters of the Maldives.",
+    "cost": 3000,
+    "bookingAvailability": true,
+    "location": "Maldives",
+    "duration": "8 days",
+    "adventureLevel": "Intermediate",
+    "includedItems": [
+      "Resort accommodation",
+      "Dive equipment",
+      "Boat trips",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Manta ray research contribution",
+      "Plastic-free initiatives",
+      "Coral restoration project"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Open water certification required",
+      "No flash photography of marine life",
+      "Buoyancy control essential"
+    ]
+  },
+  {
+    "id": "CR001",
+    "title": "Yellowstone Backcountry Camping",
+    "image": "https://i.ibb.co/m6fm06V/10-Yellowstone-Backcountry-Camping.jpg",
+    "category": "Camping Retreats",
+    "shortDescription": "Experience the raw beauty of Yellowstone National Park on this backcountry camping adventure.",
+    "cost": 1200,
+    "bookingAvailability": true,
+    "location": "Wyoming, USA",
+    "duration": "6 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Camping gear",
+      "Meals",
+      "Guide",
+      "Park permits"
+    ],
+    "ecoFriendlyFeatures": [
+      "Leave No Trace principles",
+      "Wildlife conservation education",
+      "Use of biodegradable products"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Bear safety training provided",
+      "Physical fitness required",
+      "Proper food storage mandatory"
+    ]
+  },
+  {
+    "id": "CR002",
+    "title": "New Zealand Wilderness Glamping",
+    "image": "https://i.ibb.co/6PW6sJK/11-New-Zealand-Wilderness-Glamping.jpg",
+    "category": "Camping Retreats",
+    "shortDescription": "Enjoy the comfort of glamping while surrounded by New Zealand's stunning wilderness.",
+    "cost": 2000,
+    "bookingAvailability": true,
+    "location": "South Island, New Zealand",
+    "duration": "5 days",
+    "adventureLevel": "Easy",
+    "includedItems": [
+      "Luxury tent accommodation",
+      "Gourmet meals",
+      "Guided nature walks",
+      "Stargazing equipment"
+    ],
+    "ecoFriendlyFeatures": [
+      "Solar-powered facilities",
+      "Organic, locally-sourced food",
+      "Native plant restoration project"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Respect quiet hours",
+      "Follow guide's instructions for wildlife viewing",
+      "Bring warm clothing for evenings"
+    ]
+  },
+  {
+    "id": "CR003",
+    "title": "Sahara Desert Camping Expedition",
+    "image": "https://i.ibb.co/k3Cjkgk/12-Sahara-Desert-Camping-Expedition.jpg",
+    "category": "Camping Retreats",
+    "shortDescription": "Camp under the stars in the majestic Sahara Desert, experiencing nomadic culture.",
+    "cost": 1800,
+    "bookingAvailability": true,
+    "location": "Morocco",
+    "duration": "4 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Desert camp accommodation",
+      "Meals",
+      "Camel trek",
+      "Traditional music performance"
+    ],
+    "ecoFriendlyFeatures": [
+      "Water conservation practices",
+      "Support for local Berber communities",
+      "Use of traditional, sustainable camping methods"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Respect local customs and dress codes",
+      "Prepare for extreme temperature changes",
+      "Bring reusable water bottle"
+    ]
+  },
+  {
+    "id": "WS001",
+    "title": "Serengeti Great Migration Safari",
+    "image": "https://i.ibb.co/wMX02vK/13-Serengeti-Great-Migration-Safari.jpg",
+    "category": "Wildlife Safaris",
+    "shortDescription": "Witness the incredible Great Migration across the Serengeti plains.",
+    "cost": 4000,
+    "bookingAvailability": true,
+    "location": "Tanzania",
+    "duration": "8 days",
+    "adventureLevel": "Easy",
+    "includedItems": [
+      "Lodge and tented camp accommodation",
+      "Game drives",
+      "Meals",
+      "Park fees"
+    ],
+    "ecoFriendlyFeatures": [
+      "Support for anti-poaching efforts",
+      "Community-based tourism initiatives",
+      "Use of solar power in camps"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Follow guide's safety instructions",
+      "Maintain silence during game drives",
+      "Bring appropriate camera gear"
+    ]
+  },
+  {
+    "id": "WS002",
+    "title": "Borneo Pygmy Elephant Expedition",
+    "image": "https://i.ibb.co/XV8w5Cx/14-Borneo-Pygmy-Elephant-Expedition.jpg",
+    "category": "Wildlife Safaris",
+    "shortDescription": "Search for the elusive pygmy elephants in the lush rainforests of Borneo.",
+    "cost": 2800,
+    "bookingAvailability": true,
+    "location": "Sabah, Malaysia",
+    "duration": "7 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Jungle lodge accommodation",
+      "River cruises",
+      "Guided treks",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Elephant conservation support",
+      "Rainforest preservation efforts",
+      "Eco-friendly river transportation"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Leech socks recommended",
+      "Quiet observation essential",
+      "Be prepared for humid conditions"
+    ]
+  },
+  {
+    "id": "WS003",
+    "title": "Arctic Polar Bear Expedition",
+    "image": "https://i.ibb.co/QcDDY49/15-Arctic-Polar-Bear-Expedition.jpg",
+    "category": "Wildlife Safaris",
+    "shortDescription": "Observe polar bears in their natural habitat on this Arctic adventure.",
+    "cost": 6000,
+    "bookingAvailability": true,
+    "location": "Svalbard, Norway",
+    "duration": "9 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Ship accommodation",
+      "Zodiac excursions",
+      "Meals",
+      "Arctic gear rental"
+    ],
+    "ecoFriendlyFeatures": [
+      "Polar bear research contribution",
+      "Strict adherence to Arctic wildlife viewing guidelines",
+      "Use of clean ship technology"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Follow safety protocols strictly",
+      "Dress in layers",
+      "Be prepared for unpredictable weather"
+    ]
+  },
+  {
+    "id": "RA001",
+    "title": "Colorado River Grand Canyon Rafting",
+    "image": "https://i.ibb.co/jZs3H35/16-Colorado-River-Grand-Canyon-Rafting.jpg",
+    "category": "River Adventures",
+    "shortDescription": "Experience the thrill of white-water rafting through the Grand Canyon.",
+    "cost": 2500,
+    "bookingAvailability": true,
+    "location": "Arizona, USA",
+    "duration": "7 days",
+    "adventureLevel": "Challenging",
+    "includedItems": [
+      "Rafting equipment",
+      "Camping gear",
+      "Meals",
+      "Expert guides"
+    ],
+    "ecoFriendlyFeatures": [
+      "Leave No Trace camping",
+      "River ecosystem education",
+      "Support for Grand Canyon conservation"
+    ],
+    "maxGroupSize": 16,
+    "specialInstructions": [
+      "Swimming ability required",
+      "Upper body strength needed",
+      "Be prepared for camping in remote areas"
+    ]
+  },
+  {
+    "id": "RA002",
+    "title": "Amazon River Expedition",
+    "image": "https://i.ibb.co/99kTb9V/17-Amazon-River-Expedition.jpg",
+    "category": "River Adventures",
+    "shortDescription": "Navigate the world's largest river, exploring the Amazon's incredible biodiversity.",
+    "cost": 3200,
+    "bookingAvailability": true,
+    "location": "Brazil",
+    "duration": "10 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "River boat accommodation",
+      "Guided excursions",
+      "Meals",
+      "Local transfers"
+    ],
+    "ecoFriendlyFeatures": [
+      "Support for indigenous communities",
+      "Wildlife conservation projects",
+      "Use of eco-friendly river vessels"
+    ],
+    "maxGroupSize": 14,
+    "specialInstructions": [
+      "Vaccinations required",
+      "Bring biodegradable insect repellent",
+      "Respect indigenous territories"
+    ]
+  },
+  {
+    "id": "RA003",
+    "title": "Zambezi River White Water Rafting",
+    "image": "https://i.ibb.co/4YK02Ts/18-Zambezi-River-White-Water-Rafting.jpg",
+    "category": "River Adventures",
+    "shortDescription": "Brave the rapids of the mighty Zambezi River below Victoria Falls.",
+    "cost": 1800,
+    "bookingAvailability": true,
+    "location": "Zimbabwe/Zambia",
+    "duration": "3 days",
+    "adventureLevel": "Challenging",
+    "includedItems": [
+      "Rafting equipment",
+      "Safety gear",
+      "Meals",
+      "Accommodation"
+    ],
+    "ecoFriendlyFeatures": [
+      "River conservation education",
+      "Support for local communities",
+      "Use of non-motorized rafts"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Good physical fitness required",
+      "Listen to guide's instructions carefully",
+      "Prepare for adrenaline-pumping experience"
+    ]
+  },
+  {
+    "id": "DE001",
+    "title": "Sahara Desert Expedition",
+    "image": "https://i.ibb.co/BtpLDrn/19-Sahara-Desert-Expedition.jpg",
+    "category": "Desert Exploration",
+    "shortDescription": "Journey through the iconic Sahara Desert, experiencing its vast beauty and unique culture.",
+    "cost": 2200,
+    "bookingAvailability": true,
+    "location": "Morocco",
+    "duration": "8 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "4x4 transportation",
+      "Camel trek",
+      "Desert camp accommodation",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Solar-powered camps",
+      "Water conservation practices",
+      "Support for local Berber communities"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Dress modestly",
+      "Prepare for extreme temperature changes",
+      "Bring reusable water bottle"
+    ]
+  },
+  {
+    "id": "DE002",
+    "title": "Atacama Desert Stargazing Adventure",
+    "image": "https://i.ibb.co/mXVc3cR/20-Atacama-Desert-Stargazing-Adventure.jpg",
+    "category": "Desert Exploration",
+    "shortDescription": "Explore the driest desert on Earth and witness some of the clearest night skies.",
+    "cost": 2800,
+    "bookingAvailability": true,
+    "location": "Chile",
+    "duration": "6 days",
+    "adventureLevel": "Easy",
+    "includedItems": [
+      "Hotel accommodation",
+      "Guided tours",
+      "Stargazing sessions",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Dark sky preservation efforts",
+      "Use of eco-friendly accommodations",
+      "Support for local astronomy programs"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Bring warm clothing for night activities",
+      "Protect camera equipment from sand",
+      "Hydrate frequently"
+    ]
+  },
+  {
+    "id": "DE003",
+    "title": "Namib Desert Safari",
+    "image": "https://i.ibb.co/fp4RkYN/21-Namib-Desert-Safari.jpg",
+    "category": "Desert Exploration",
+    "shortDescription": "Discover the unique wildlife and stunning landscapes of the world's oldest desert.",
+    "cost": 3500,
+    "bookingAvailability": true,
+    "location": "Namibia",
+    "duration": "9 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Lodge accommodation",
+      "Game drives",
+      "Scenic flights",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Wildlife conservation support",
+      "Use of solar-powered lodges",
+      "Community-based tourism initiatives"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Respect wildlife viewing guidelines",
+      "Bring sun protection",
+      "Be prepared for early morning starts"
+    ]
+  },
+  {
+    "id": "MF001",
+    "title": "Sundarbans Mangrove Expedition",
+    "image": "https://i.ibb.co/37Nh5vz/22-Sundarbans-Mangrove-Expedition.jpg",
+    "category": "Mangrove Forest Expeditions",
+    "shortDescription": "Explore the world's largest mangrove forest and search for the elusive Bengal tiger.",
+    "cost": 1800,
+    "bookingAvailability": true,
+    "location": "Bangladesh",
+    "duration": "5 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Boat accommodation",
+      "Guided tours",
+      "Meals",
+      "Park permits"
+    ],
+    "ecoFriendlyFeatures": [
+      "Mangrove conservation support",
+      "Use of eco-friendly boats",
+      "Local guide employment"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Follow safety guidelines for tiger areas",
+      "Bring binoculars for wildlife viewing",
+      "Be prepared for humid conditions"
+    ]
+  },
+  {
+    "id": "MF002",
+    "title": "Everglades Kayaking Adventure",
+    "image": "https://i.ibb.co/gS4jfDM/23-Everglades-Kayaking-Adventure.jpg",
+    "category": "Mangrove Forest Expeditions",
+    "shortDescription": "Paddle through the unique mangrove ecosystems of the Florida Everglades.",
+    "cost": 1200,
+    "bookingAvailability": true,
+    "location": "Florida, USA",
+    "duration": "3 days",
+    "adventureLevel": "Easy to Moderate",
+    "includedItems": [
+      "Kayak and gear",
+      "Guided tours",
+      "Camping equipment",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Everglades restoration support",
+      "Leave No Trace practices",
+      "Wildlife education programs"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Basic kayaking skills required",
+      "Bring sun protection",
+      "Be aware of alligator safety protocols"
+    ]
+  },
+  {
+    "id": "MF003",
+    "title": "Daintree Rainforest Mangrove Tour",
+    "image": "https://i.ibb.co/KVfShCM/24-Daintree-Rainforest-Mangrove-Tour.jpg",
+    "category": "Mangrove Forest Expeditions",
+    "shortDescription": "Discover the unique flora and fauna of the world's oldest rainforest and its mangrove ecosystems.",
+    "cost": 1500,
+    "bookingAvailability": true,
+    "location": "Queensland, Australia",
+    "duration": "4 days",
+    "adventureLevel": "Easy",
+    "includedItems": [
+      "Eco-lodge accommodation",
+      "Guided walks",
+      "River cruises",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Rainforest conservation projects",
+      "Use of renewable energy in lodges",
+      "Indigenous culture preservation"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Respect aboriginal lands",
+      "Bring insect repellent",
+      "Listen for unique bird calls"
+    ]
+  },
+  {
+    "id": "MT004",
+    "title": "Patagonia Torres del Paine Circuit",
+    "image": "https://i.ibb.co/hZQmhpB/25-Patagonia-Torres-del-Paine-Circuit.jpg",
+    "category": "Mountain Treks",
+    "shortDescription": "Trek through the stunning landscapes of Torres del Paine National Park in Chilean Patagonia.",
+    "cost": 3200,
+    "bookingAvailability": true,
+    "location": "Chile",
+    "duration": "10 days",
+    "adventureLevel": "Challenging",
+    "includedItems": [
+      "Camping equipment",
+      "Meals",
+      "Guide",
+      "Park fees"
+    ],
+    "ecoFriendlyFeatures": [
+      "Leave No Trace practices",
+      "Support for local conservation efforts",
+      "Use of sustainable camping techniques"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "High level of fitness required",
+      "Prepare for unpredictable weather",
+      "Proper hiking boots essential"
+    ]
+  },
+  {
+    "id": "OD004",
+    "title": "Red Sea Wreck Diving Adventure",
+    "image": "https://i.ibb.co/ygmmCsV/26-Red-Sea-Wreck-Diving-Adventure.jpg",
+    "category": "Ocean Dives",
+    "shortDescription": "Explore historic shipwrecks and vibrant coral reefs in the crystal-clear waters of the Red Sea.",
+    "cost": 2200,
+    "bookingAvailability": true,
+    "location": "Egypt",
+    "duration": "7 days",
+    "adventureLevel": "Intermediate to Advanced",
+    "includedItems": [
+      "Dive equipment",
+      "Boat trips",
+      "Accommodation",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Coral reef conservation support",
+      "Use of eco-friendly dive boats",
+      "Marine life protection education"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Advanced open water certification required",
+      "Nitrox certification recommended",
+      "Underwater camera recommended for wreck documentation"
+    ]
+  },
+  {
+    "id": "WS004",
+    "title": "Galápagos Islands Wildlife Expedition",
+    "image": "https://i.ibb.co/D5WWvhz/27-Gal-pagos-Islands-Wildlife-Expedition.jpg",
+    "category": "Wildlife Safaris",
+    "shortDescription": "Discover the unique wildlife of the Galápagos Islands, following in the footsteps of Charles Darwin.",
+    "cost": 5500,
+    "bookingAvailability": true,
+    "location": "Ecuador",
+    "duration": "10 days",
+    "adventureLevel": "Easy to Moderate",
+    "includedItems": [
+      "Island accommodations",
+      "Boat tours",
+      "Snorkeling equipment",
+      "Naturalist guides"
+    ],
+    "ecoFriendlyFeatures": [
+      "Support for Galápagos conservation",
+      "Strict adherence to park regulations",
+      "Environmental education programs"
+    ],
+    "maxGroupSize": 16,
+    "specialInstructions": [
+      "Respect wildlife viewing guidelines",
+      "Bring underwater camera",
+      "Be prepared for moderate hiking"
+    ]
+  }
+]
