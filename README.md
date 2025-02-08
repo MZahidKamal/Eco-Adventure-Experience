@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://res.cloudinary.com/dxh2iyxjs/image/upload/v1738951485/Eco-Adventure_Experiences_v6mmjq.jpg"  />
+</div>
+
 # 🌿 Eco-Adventure Experiences
 
 ## 🎯 Purpose
